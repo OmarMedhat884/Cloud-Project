@@ -1,4 +1,3 @@
-# Cloud-Project
 # Task Management System
 
 ## Project Overview
