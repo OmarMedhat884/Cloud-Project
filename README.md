@@ -254,9 +254,3 @@ This project demonstrates the implementation of a cloud-based Task Management Sy
 The project successfully fulfills all required functional and cloud deployment requirements.
 
 ---
-
-# Team Members
-
-- Omar Medhat
-- Hassan Fathy
-- Youssef Salah
