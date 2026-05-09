@@ -260,4 +260,3 @@ The project successfully fulfills all required functional and cloud deployment r
 - Omar Medhat
 - Hassan Fathy
 - Youssef Salah
-- Seif Eldin Wael
